@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.56951bdb.chunk.css",
-    "main.js": "./static/js/main.18dfd28a.chunk.js",
+    "main.js": "./static/js/main.dcc729e4.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.6adb6291.js",
-    "static/js/2.82973089.chunk.js": "./static/js/2.82973089.chunk.js",
+    "static/js/2.5ceb1461.chunk.js": "./static/js/2.5ceb1461.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.ecd1bc8a35b7d77afd81e972c5168ad3.js": "./precache-manifest.ecd1bc8a35b7d77afd81e972c5168ad3.js",
+    "precache-manifest.cf31ed6b0c53fc91830d84984f02d1a9.js": "./precache-manifest.cf31ed6b0c53fc91830d84984f02d1a9.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.82973089.chunk.js.LICENSE.txt": "./static/js/2.82973089.chunk.js.LICENSE.txt",
+    "static/js/2.5ceb1461.chunk.js.LICENSE.txt": "./static/js/2.5ceb1461.chunk.js.LICENSE.txt",
     "static/media/GraphicsAgesGirl.bin": "./static/media/GraphicsAgesGirl.4c0d9754.bin",
     "static/media/GraphicsBowwow.bin": "./static/media/GraphicsBowwow.ca5add2c.bin",
     "static/media/GraphicsBunny.bin": "./static/media/GraphicsBunny.f88a5aa9.bin",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6adb6291.js",
-    "static/js/2.82973089.chunk.js",
+    "static/js/2.5ceb1461.chunk.js",
     "static/css/main.56951bdb.chunk.css",
-    "static/js/main.18dfd28a.chunk.js"
+    "static/js/main.dcc729e4.chunk.js"
   ]
 }
