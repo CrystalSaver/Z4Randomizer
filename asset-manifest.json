@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.1b3b9246.chunk.css",
-    "main.js": "./static/js/main.49bdd329.chunk.js",
+    "main.js": "./static/js/main.fb3d80d6.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.6adb6291.js",
-    "static/js/2.408cec33.chunk.js": "./static/js/2.408cec33.chunk.js",
+    "static/js/2.651d37c7.chunk.js": "./static/js/2.651d37c7.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.268e8c7c35a6c18b27322569b64e35cd.js": "./precache-manifest.268e8c7c35a6c18b27322569b64e35cd.js",
+    "precache-manifest.f5bb24ed889f43f2d9262fbaf061d72a.js": "./precache-manifest.f5bb24ed889f43f2d9262fbaf061d72a.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.408cec33.chunk.js.LICENSE.txt": "./static/js/2.408cec33.chunk.js.LICENSE.txt",
+    "static/js/2.651d37c7.chunk.js.LICENSE.txt": "./static/js/2.651d37c7.chunk.js.LICENSE.txt",
     "static/media/GraphicsAgesGirl.bin": "./static/media/GraphicsAgesGirl.4c0d9754.bin",
     "static/media/GraphicsBowwow.bin": "./static/media/GraphicsBowwow.ca5add2c.bin",
     "static/media/GraphicsBunny.bin": "./static/media/GraphicsBunny.f88a5aa9.bin",
     "static/media/GraphicsKirby.bin": "./static/media/GraphicsKirby.5584ad63.bin",
     "static/media/GraphicsLink.bin": "./static/media/GraphicsLink.e6d6e67c.bin",
+    "static/media/GraphicsLuigi.bin": "./static/media/GraphicsLuigi.e80df1dd.bin",
     "static/media/GraphicsMarin.bin": "./static/media/GraphicsMarin.8272c1cb.bin",
     "static/media/GraphicsMario.bin": "./static/media/GraphicsMario.32f19826.bin",
     "static/media/GraphicsMartha.bin": "./static/media/GraphicsMartha.5f3d6e65.bin",
@@ -24,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6adb6291.js",
-    "static/js/2.408cec33.chunk.js",
+    "static/js/2.651d37c7.chunk.js",
     "static/css/main.1b3b9246.chunk.css",
-    "static/js/main.49bdd329.chunk.js"
+    "static/js/main.fb3d80d6.chunk.js"
   ]
 }
